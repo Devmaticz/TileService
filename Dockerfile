@@ -1,5 +1,5 @@
 FROM node:6-stretch
-MAINTAINER Petr Sloup <petr.sloup@klokantech.com>
+MAINTAINER Petr Sloup <loki@klokantech.com>
 
 ENV NODE_ENV="production"
 VOLUME /data
