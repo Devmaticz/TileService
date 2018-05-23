@@ -1,11 +1,11 @@
 {
   "name": "tileserver-gl",
   "version": "2.3.1",
-  "description": "Map tile server for JSON GL styles - vector and server side generated raster tiles",
+  "description": "Map tile server",
   "main": "src/main.js",
   "bin": "src/main.js",
   "authors": [
-    "Petr Sloup <petr.sloup@klokantech.com>"
+    "Dev <dev@augmentedtelematics.com>"
   ],
   "repository": {
     "type": "git",
@@ -39,7 +39,7 @@
     "proj4": "2.4.4",
     "request": "2.83.0",
     "sharp": "0.18.2",
-    "tileserver-gl-styles": "1.2.0"
+    "devmaticz-tilestyles": "1.2.0"
   },
   "devDependencies": {
     "should": "^11.2.0",
