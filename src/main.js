@@ -89,7 +89,7 @@ var startWithMBTiles = function(mbtilesFile) {
       }
       var bounds = info.bounds;
 
-      var styleDir = path.resolve(__dirname, "../node_modules/dev-gl-styles/");
+      var styleDir = path.resolve(__dirname, "../node_modules/dev2-gl-styles/");
 
       var config = {
         "options": {
