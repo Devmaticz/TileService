@@ -434,8 +434,8 @@ module.exports = function(options, repo, params, id, dataResolver) {
           var canvas = new Canvas(scale * width, scale * height);
           var ctx = canvas.getContext('2d');
           ctx.scale(scale, scale);
-          ctx.font = '10px sans-serif';
-          ctx.strokeWidth = '1px';
+          ctx.font = '5px sans-serif';
+          ctx.strokeWidth = '5px';
           ctx.strokeStyle = 'rgba(255,255,255,.4)';
           ctx.strokeText(watermark, 5, height - 5);
           ctx.fillStyle = 'rgba(0,0,0,.4)';
