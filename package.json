@@ -39,7 +39,7 @@
     "proj4": "2.4.4",
     "request": "2.83.0",
     "sharp": "0.18.2",
-    "dev2-gl-styles": "1.2.0"
+    "devx-gl-styles": "1.2.0"
   },
   "devDependencies": {
     "should": "^11.2.0",
